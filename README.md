@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I'm Junior DevOps and Junior Backend Developer<br>👨🏽‍🏫 I’m currently studying: Technologyst Degree in Computer Science at UTEC, Uruguay (204/254 credits earned to date).<br>👥 I’m looking to collaborate on open source projects<br>🎑 I  possess strong skills, both professional and academic, in various technologies such as Docker, AWS, Java, Linux, GitHub, SQL (MySQL, PostgreSQL, DB2), CI/CD.<br>🧠 I'm learning more about Kubernetes, Terraform, Jenkins, Ansible and Grafana.
+👩🏻‍💻 I'm Junior DevOps and Junior Backend Developer<br>👨🏽‍🏫 I’m currently studying: <a href="https://utec.edu.uy/en/education/undergraduate-study/technologist-degree-in-computer-science/"> Technologyst Degree in Computer Science at UTEC, university from Uruguay. </a> (204/254 credits earned to date).<br>👥 I’m looking to collaborate on open source projects<br>🎑 I  possess strong skills, both professional and academic, in various technologies such as Docker, AWS, Java, Linux, GitHub, SQL (MySQL, PostgreSQL, DB2), CI/CD.<br>🧠 I'm learning more about Kubernetes, Terraform, Jenkins, Ansible and Grafana.
 
 
 
